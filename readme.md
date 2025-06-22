@@ -1,6 +1,6 @@
 # is_SVG
 
-> Check if a string is [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+> Check if a string is [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) .
 
 ## Install
 
