@@ -10,6 +10,7 @@
 npm install is-svg
 ```
 
+
 ## Usage
 
 ```js
